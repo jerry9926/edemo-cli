@@ -3,7 +3,7 @@
     "edemo": "./index.js"
   },
   "name": "edemo-cli",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "a tool for creating a demo repo with menu and livereload",
   "main": "index.js",
   "scripts": {},
