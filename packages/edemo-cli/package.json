@@ -1,0 +1,26 @@
+{
+  "bin": {
+    "edemo": "./index.js"
+  },
+  "name": "edemo-cli",
+  "version": "0.0.6",
+  "description": "a tool for creating a demo repo with menu and livereload",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "tool",
+    "demo template",
+    "cli"
+  ],
+  "author": "zhijie.huang",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "download-git-repo": "^1.0.2",
+    "handlebars": "^4.0.11",
+    "inquirer": "^6.1.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^3.0.0"
+  }
+}
